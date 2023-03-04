@@ -7,12 +7,18 @@ function App() {
   return (
     <div>
       <div>
-          <h2> Who's that player? </h2>
+          <h2> Who's That Player? </h2>
           <h3>
             You might think as yourself as a basketball or NBA fan but if you dont know who these players are then are you really?
-            put yourself to the test with the top 10 most known NBA players.
+            Put yourself to the test with the top 10 most known NBA players.
           </h3>
           <h4> Number of Players: {count} </h4>
+          <br />
+          <div className='card'>
+             <div className='front'></div>
+             <div className='back'></div>
+          </div>
+          <button type="next" className='nextCard'>➡</button>
       </div>
     </div>
   )
