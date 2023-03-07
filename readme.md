@@ -1,16 +1,18 @@
 # Web Development Project 2 - whosThatPlayer?
 
-Submitted by: Mohammed Mohamed
+Submitted by: Mohammed M
 
 This web app: 
 
-Time spent: 1 hours spent in total
+Will test your knowledge on the most popular nba players.
+
+Time spent: 2 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
 - [ ] **A single card at a time is displayed, only showing one of the components of the information pair**
 - [ ] **A list of card pairs is created**
 - [ ] **Clicking on the card shows the corresponding component of the information pair**
@@ -42,6 +44,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Still working on this app since I have been very busy recently will try and complete by Wednesday.
 
 ## License
 
